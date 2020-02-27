@@ -9,6 +9,8 @@ puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 
+end
+
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 def display_board(board)
 
