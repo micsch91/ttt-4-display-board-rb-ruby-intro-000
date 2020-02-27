@@ -22,10 +22,10 @@ puts "   |   |   "
 
 end
 
-board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
+board1 = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
 def display_board(board)
 
-  puts " #{board[0]} |   |   "
+  puts " #{board1[0]} |   |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
