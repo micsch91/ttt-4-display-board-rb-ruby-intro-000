@@ -12,7 +12,7 @@ puts "   |   |   "
 end
 
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-def display_board(board)
+display_board(board)
 
 puts "   |   |   "
 puts "-----------"
@@ -23,7 +23,7 @@ puts "   |   |   "
 end
 
 board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
-def display_board(board)
+display_board(board)
 
   puts " #{board[0]} |   |   "
   puts "-----------"
